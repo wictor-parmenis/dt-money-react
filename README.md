@@ -3,4 +3,4 @@ Finance application with the goal of helping people control your financial asset
 
 ## Details
 ### Design system
- - https://www.figma.com/community/file/1138814493269096792
+ - https://www.figma.com/file/nCAIKOKUd3LpVObqlH2AfV/DT-Money-(Community)?node-id=0%3A1
